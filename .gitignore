@@ -5,3 +5,4 @@ classes/
 built/
 .*
 !.gitignore
+.file_activity_report.json
